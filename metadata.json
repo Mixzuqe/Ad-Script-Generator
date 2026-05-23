@@ -1,0 +1,8 @@
+{
+  "name": "Ad Script Generator",
+  "description": "Generate ad scripts using AI in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
